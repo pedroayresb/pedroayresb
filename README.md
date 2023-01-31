@@ -3,7 +3,7 @@
 
 [![N|Solid](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroayresb/)
 
-Desenvolvedor Web Full stack, com foco no backend.
+Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiva, o que pode ser avaliado como um ponto positivo e negativo. Costumo entrar em situações adversas que poderiam ser evitadas com um pouco de planejamento, por outro lado, me tornei uma pessoa que consegue se adaptar rapidamente, o que me trouxe para a programação. Adoro aprender liguagens e stacks novos, e quero sempre estar evoluindo dentro desse ramo tão extenso de carreira!
 
 <div align="center">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,6 +17,8 @@ Desenvolvedor Web Full stack, com foco no backend.
   <img align="center" alt="Redux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Vue Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="TailwindCSS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Sequelize Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="PostgreeSQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Meteor Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
   <img align="center" alt="VSCODE Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
