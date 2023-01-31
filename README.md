@@ -3,7 +3,14 @@
 
 [![N|Solid](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroayresb/)
 
+</br>
+
 Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiva, o que pode ser avaliado como um ponto positivo e negativo. Costumo entrar em situações adversas que poderiam ser evitadas com um pouco de planejamento, por outro lado, me tornei uma pessoa que consegue se adaptar rapidamente, o que me trouxe para a programação. Adoro aprender liguagens e stacks novos, e quero sempre estar evoluindo dentro desse ramo tão extenso de carreira!
+
+</br>
+
+Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Bootstrap para estilização, e NodeJS e Meteor para backend, utilizando bancos de dados relacionais como MySQL e PostgreeSQL e não relacionais como MongoDB.
+
 
 <div align="center">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
