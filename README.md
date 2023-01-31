@@ -24,5 +24,4 @@ Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiv
 </div>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
