@@ -11,6 +11,8 @@ Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiv
 
 Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Bootstrap para estilização, e NodeJS e Meteor para backend, utilizando bancos de dados relacionais como MySQL e PostgreeSQL e não relacionais como MongoDB.
 
+</br>
+
 
 <div align="center">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,6 +31,8 @@ Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Boots
   <img align="center" alt="Meteor Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
   <img align="center" alt="VSCODE Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
+
+</br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
