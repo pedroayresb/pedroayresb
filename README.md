@@ -5,7 +5,7 @@
 
 </br>
 
-Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiva, o que pode ser avaliado como um ponto positivo e negativo. Costumo entrar em situações adversas que poderiam ser evitadas com um pouco de planejamento, por outro lado, me tornei uma pessoa que consegue se adaptar rapidamente, o que me trouxe para a programação. Adoro aprender liguagens e stacks novos, e quero sempre estar evoluindo dentro desse ramo tão extenso de carreira!
+Me chamo Pedro, venho de Manaus mas moro em Curitiba. Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiva, por isso, me tornei uma pessoa que consegue se adaptar rapidamente às situações ao meu redor, o que me trouxe para a programação. Adoro aprender linguagens e stacks novos, e quero sempre estar evoluindo dentro deste ramo tão extenso de carreira!
 
 </br>
 
