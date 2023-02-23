@@ -59,15 +59,15 @@ Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Boots
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-Total Time: 12 hrs 16 mins
+Total Time: 10 hrs 32 mins
 
-TypeScript   5 hrs 49 mins   >>>>>>>>>>>>-------------   47.52 %
-Vue.js       4 hrs 12 mins   >>>>>>>>>----------------   34.35 %
-JSON         1 hr 4 mins     >>-----------------------   08.77 %
-JavaScript   30 mins         >------------------------   04.09 %
-Other        13 mins         -------------------------   01.80 %
+TypeScript   4 hrs 22 mins   >>>>>>>>>>---------------   41.43 %
+Vue.js       4 hrs 12 mins   >>>>>>>>>>---------------   39.95 %
+JSON         59 mins         >>-----------------------   09.36 %
+JavaScript   27 mins         >------------------------   04.33 %
+Other        13 mins         >------------------------   02.09 %
 ```
 
 <!--END_SECTION:waka-->
