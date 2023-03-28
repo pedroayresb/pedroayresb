@@ -56,14 +56,3 @@ Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Boots
 
 </br>
 
-<!--START_SECTION:waka-->
-
-```text
-From: 20 March 2023 - To: 27 March 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
