@@ -6,7 +6,7 @@
 
 </br>
 
-Me chamo Pedro, venho de Manaus mas moro em Curitiba. Desenvolvedor Web Full stack, com foco no backend. Sou uma pessoa muito impulsiva, por isso, me tornei uma pessoa que consegue se adaptar rapidamente às situações ao meu redor, o que me trouxe para a programação. Adoro aprender linguagens e stacks novos, e quero sempre estar evoluindo dentro deste ramo tão extenso de carreira!
+Me chamo Pedro, sou um desenvolvedor web júnior. Impulsionado por uma paixão de longa data por computação e resolução lógica de problemas. Após realizar uma transição de carreira durante a pandemia, de estudar administração para programação, me apaixonei pela área e venho aprimorando minhas habilidades por meio de projetos pessoais. Eu me destaco em me adaptar a novas situações, possuo habilidades excelentes de gerenciamento de tempo e colaboro efetivamente com os outros. Meu objetivo é ganhar experiência prática e trabalhar em uma empresa internacional como desenvolvedor sênior. Eu me mantenho atualizado com as tendências da indústria explorando códigos abertos e prospero em uma cultura de trabalho que valoriza a comunicação clara e as expectativas.
 
 </br>
 
