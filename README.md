@@ -6,13 +6,12 @@
 
 </br>
 
-Me chamo Pedro, sou um desenvolvedor web júnior. Impulsionado por uma paixão de longa data por computação e resolução lógica de problemas. Após realizar uma transição de carreira durante a pandemia, de estudar administração para programação, me apaixonei pela área e venho aprimorando minhas habilidades por meio de projetos pessoais. Eu me destaco em me adaptar a novas situações, possuo habilidades excelentes de gerenciamento de tempo e colaboro efetivamente com os outros. Meu objetivo é ganhar experiência prática e trabalhar em uma empresa internacional como desenvolvedor sênior. Eu me mantenho atualizado com as tendências da indústria explorando códigos abertos e prospero em uma cultura de trabalho que valoriza a comunicação clara e as expectativas.
+Me chamo Pedro, sou um desenvolvedor web júnior com forte foco em desenvolvimento de backend, impulsionado por uma paixão de longa data por computação e resolução lógica de problemas. Após realizar uma transição de carreira durante a pandemia, de estudar administração para programação, me apaixonei pela área e venho aprimorando minhas habilidades por meio de projetos pessoais. Eu me destaco em me adaptar a novas situações, possuo habilidades excelentes de gerenciamento de tempo e colaboro efetivamente com os outros. Meu objetivo é ganhar experiência prática e trabalhar em uma empresa internacional como desenvolvedor sênior. Eu me mantenho atualizado com as tendências da indústria explorando códigos abertos e prospero em uma cultura de trabalho que valoriza a comunicação clara e as expectativas.
 
 </br>
 
-Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Bootstrap para estilização, e NodeJS e Meteor para backend, utilizando bancos de dados relacionais como MySQL e PostgreeSQL e não relacionais como MongoDB.
+Tenho experiência em NodeJS para backend, utilizando bancos de dados relacionais como MySQL e PostgreeSQL e não relacionais como MongoDB, além de conhecimentos em Golang, ferramentas de deploy utilizando containers Docker
 
-</br>
 
 
 <div align="center">
@@ -34,6 +33,7 @@ Tenho experiência de estudo com React e Vue para frontend, com Tailwind e Boots
   <img align="center" alt="PostgreeSQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Mongo Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Meteor Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
+  <img align="center" alt="Golang" height="30" width="40" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" />
   <img align="center" alt="Mocha Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="Jest Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="VSCODE Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
