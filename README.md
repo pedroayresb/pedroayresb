@@ -49,7 +49,7 @@ Tenho experiência em NodeJS para backend, utilizando bancos de dados relacionai
 </a>
 
 <a href="https://github.com/pedroayresb">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroayresb&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**PEDRO AYRES* github stats" heigth="160em" width="420px"/>
+ <img align="center" src="https://github-readme-stats-rouge-nine-78.vercel.app/api?username=pedroayresb&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**PEDRO AYRES* github stats" heigth="160em" width="420px"/>
 </a>
   
 </br>
